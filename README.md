@@ -12,3 +12,10 @@
 
 <br/>
 <img src="https://github.com/siqueira91/react-developer-DIO/blob/main/2023-06-18_02-36.png?raw=true">
+
+<br/>
+
+<h3>Desafio 3 - Tela de Cadastro da Plataforma Dio</h3>
+
+<br/>
+<img src="https://github.com/siqueira91/react-developer-DIO/assets/99566627/082eca1f-4825-434a-b6c0-b2dc7dc7249b">
